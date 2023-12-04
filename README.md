@@ -107,3 +107,11 @@ Explore our documentation and engage with the Rocket.Chat Apps community:
    - [#white board integration team](https://open.rocket.chat/channel/white-board-integration-team)
 
 Feel free to explore, learn, and collaborate within the Rocket.Chat Apps ecosystem. Happy coding!
+
+
+## Contributors
+
+<!-- Contributors Section Start -->
+<!-- DO NOT REMOVE - CONTRIBUTORS-LIST:START -->
+<!-- CONTRIBUTORS-LIST:END -->
+<!-- Contributors Section End -->
